@@ -61,7 +61,7 @@ If you have any ideas how i can improve the code of 'main.py' and ' speech to te
 ## to-do list
 
 - better documantation and comments
-- clean out kod
+- clean out code
 - better speech to text system
 - optimize code
 - graphical interface
