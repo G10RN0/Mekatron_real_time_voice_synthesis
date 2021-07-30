@@ -19,7 +19,7 @@ my discord server for feed back - https://discord.gg/4Px628yhxZ
 
 1. create a new environment in anaconda on python 3.7
 
-2. run console and redirect to the folder where you have all the code
+2. run console and redirect in console to the folder where you have all the code
 
 3. type in console "pip install -r requirements.txt"
 
